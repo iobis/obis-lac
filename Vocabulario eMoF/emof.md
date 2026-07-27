@@ -1,4 +1,4 @@
-```html id="nerc-terms"
+
 
 <h2>Términos del NERC / Termos do NERC / NERC Terms</h2>
 
